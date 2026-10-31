@@ -18,5 +18,6 @@ Files you use on a PC for the labs in the AI Atlas app. The kits are free for an
 | `lab.c.lab.paper_review` | [aiatlas-lab-paper_review-0e463de8.zip](kits/aiatlas-lab-paper_review-0e463de8.zip) | 11KB | `0e463de88dad20943db98a9226d17bb43b22d5327a2355b3a2908aeadada5e46` |
 | `lab.c.lab.token_counter` | [aiatlas-lab-token_counter-303f7f4e.zip](kits/aiatlas-lab-token_counter-303f7f4e.zip) | 9KB | `303f7f4e5cfaa2bce582cec007d25bc6d56c0a27a558233ad220cd1e4353a387` |
 | `lab.c.lab.tokenizer_build` | [aiatlas-lab-tokenizer_build-d55e206d.zip](kits/aiatlas-lab-tokenizer_build-d55e206d.zip) | 37KB | `d55e206d6a13451c5812f54de467d2e4e67268b1c52fb83d13763c3e6427c2c6` |
+| `lab.c.lab.tool_agent` | [aiatlas-lab-tool_agent-485a88b3.zip](kits/aiatlas-lab-tool_agent-485a88b3.zip) | 56KB | `485a88b32caec477c7408f1a16d03ab0289eb4ad7e72571c928a403cb98c054d` |
 
 코드는 MIT 라이선스(각 키트의 LICENSE)입니다. 모델 가중치·데이터셋은 들어 있지 않으며, 절차대로 원래 배포처에서 받습니다.
