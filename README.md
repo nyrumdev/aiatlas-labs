@@ -8,11 +8,15 @@ Files you use on a PC for the labs in the AI Atlas app. The kits are free for an
 | 실습 | 파일 | 크기 | SHA-256 |
 |---|---|---:|---|
 | `lab.c.lab.char_lm_scratch` | [aiatlas-lab-char_lm_scratch-5cc2b1b5.zip](kits/aiatlas-lab-char_lm_scratch-5cc2b1b5.zip) | 43KB | `5cc2b1b5ce26dea56dd4ab3814803bc0c1fe3451ece947cc1dfa572bd624a32d` |
+| `lab.c.lab.dpo_mini` | [aiatlas-lab-dpo_mini-62b712fb.zip](kits/aiatlas-lab-dpo_mini-62b712fb.zip) | 44KB | `62b712fb97ecb66c946a8d3089b2dc9d8ca41421354662f694e8aafca268e273` |
+| `lab.c.lab.eval_harness` | [aiatlas-lab-eval_harness-01929107.zip](kits/aiatlas-lab-eval_harness-01929107.zip) | 41KB | `019291079e5a1bac4c2191490b31f956a885feb8c4f40005851305d29ce5b90b` |
+| `lab.c.lab.finetune_report` | [aiatlas-lab-finetune_report-b34f2d4f.zip](kits/aiatlas-lab-finetune_report-b34f2d4f.zip) | 30KB | `b34f2d4f0686b40e353a529e6a8550e24d43e61ff58453c8585bb9d12c61163a` |
 | `lab.c.lab.first_model_sklearn` | [aiatlas-lab-first_model_sklearn-879b4440.zip](kits/aiatlas-lab-first_model_sklearn-879b4440.zip) | 30KB | `879b444075ca52f6709e7d7fce9bf6afd0626e39b393d42ce94bc456ce004ef1` |
 | `lab.c.lab.gd_spreadsheet` | [aiatlas-lab-gd_spreadsheet-acb2365d.zip](kits/aiatlas-lab-gd_spreadsheet-acb2365d.zip) | 8KB | `acb2365dcb8d2148a9b0ff2e6f2f098341789948e52c017f063f9bd074bac4c5` |
 | `lab.c.lab.gemma_local_run` | [aiatlas-lab-gemma_local_run-330cc61b.zip](kits/aiatlas-lab-gemma_local_run-330cc61b.zip) | 9KB | `330cc61b35bcee02f1b00bc6ab6ed9d5c56f9466a273753ae96a60a9ff2f05df` |
 | `lab.c.lab.gradients_by_hand` | [aiatlas-lab-gradients_by_hand-4896bc86.zip](kits/aiatlas-lab-gradients_by_hand-4896bc86.zip) | 33KB | `4896bc8634de6d8e66f19391a0cb4439886ad9acfaed4bc02d653dc569750e9e` |
 | `lab.c.lab.inference_opt_report` | [aiatlas-lab-inference_opt_report-88f025a4.zip](kits/aiatlas-lab-inference_opt_report-88f025a4.zip) | 13KB | `88f025a43806564f116eccdc9c860f3b3f9f231ac8a5cc07ae27e56b079eddc9` |
+| `lab.c.lab.injection_redteam` | [aiatlas-lab-injection_redteam-4b5d7481.zip](kits/aiatlas-lab-injection_redteam-4b5d7481.zip) | 40KB | `4b5d748186795fe6292f1c95fb55297c30b6c85fc72ade490ea7efe7c5f8d444` |
 | `lab.c.lab.local_qa_app` | [aiatlas-lab-local_qa_app-0bdf9243.zip](kits/aiatlas-lab-local_qa_app-0bdf9243.zip) | 14KB | `0bdf92437df7c14d7b53c80e7c50a18d34896d06434ba21c2d8042f88844a538` |
 | `lab.c.lab.no_code_classifier` | [aiatlas-lab-no_code_classifier-735e6a08.zip](kits/aiatlas-lab-no_code_classifier-735e6a08.zip) | 9KB | `735e6a08a87ad653b312cd75802794b2d3492b88d07cd9bc210b4fd785c1c173` |
 | `lab.c.lab.paper_review` | [aiatlas-lab-paper_review-0e463de8.zip](kits/aiatlas-lab-paper_review-0e463de8.zip) | 11KB | `0e463de88dad20943db98a9226d17bb43b22d5327a2355b3a2908aeadada5e46` |
