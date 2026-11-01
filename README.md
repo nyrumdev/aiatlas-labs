@@ -26,5 +26,6 @@ Bookmark this one page on your PC. Find the row with the same title as the lab i
 | L3 | 파인튜닝 1회 + 평가 리포트<br>One Fine-Tuning Run + Evaluation Report | [aiatlas-lab-finetune_report-b34f2d4f.zip](kits/aiatlas-lab-finetune_report-b34f2d4f.zip) | 30KB | `b34f2d4f0686b40e353a529e6a8550e24d43e61ff58453c8585bb9d12c61163a` |
 | L4 | 추론 최적화 실험 + 벤치 리포트<br>Inference Optimization Experiment + Benchmark Report | [aiatlas-lab-inference_opt_report-88f025a4.zip](kits/aiatlas-lab-inference_opt_report-88f025a4.zip) | 13KB | `88f025a43806564f116eccdc9c860f3b3f9f231ac8a5cc07ae27e56b079eddc9` |
 | L5 | 논문 3편 요약 + 견해 1편<br>Summaries of 3 papers + 1 position paper | [aiatlas-lab-paper_review-0e463de8.zip](kits/aiatlas-lab-paper_review-0e463de8.zip) | 11KB | `0e463de88dad20943db98a9226d17bb43b22d5327a2355b3a2908aeadada5e46` |
+| L5 | 소형 모델 GRPO 강화학습 + Pass@k/Maj@k 로 새 능력인지 가리기<br>GRPO reinforcement learning on a small model + using Pass@k/Maj@k to tell whether it is a new ability | [aiatlas-lab-grpo_reasoning-4dcbc97a.zip](kits/aiatlas-lab-grpo_reasoning-4dcbc97a.zip) | 46KB | `4dcbc97a80f9819e56d762274a493f76e6d827d2953dd7c4541795d7cd11b5df` |
 
 코드는 MIT 라이선스(각 키트의 LICENSE)입니다. 모델 가중치·데이터셋은 들어 있지 않으며, 절차대로 원래 배포처에서 받습니다.
