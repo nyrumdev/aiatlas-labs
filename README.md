@@ -34,6 +34,7 @@ Bookmark this one page on your PC. Find the row with the same title as the lab i
 | L4 | 작은 GPT 사전학습으로 미니 스케일링 사다리 그리기<br>Drawing a mini scaling ladder by pretraining small GPTs | [aiatlas-lab-mini_scaling-d2561456.zip](kits/aiatlas-lab-mini_scaling-d2561456.zip) | 63KB | `d25614560416e64240af68a034a4cb3f47ded658c337b0dafe93d749d2658a2e` |
 | L4 | 추론 최적화 실험 + 벤치 리포트<br>Inference Optimization Experiment + Benchmark Report | [aiatlas-lab-inference_opt_report-2b1315c3.zip](kits/aiatlas-lab-inference_opt_report-2b1315c3.zip) | 14KB | `2b1315c38c581adecf66473e357ba7d99edd716677a59578fb62387deab7101d` |
 | L5 | 논문 3편 요약 + 견해 1편<br>Summaries of 3 papers + 1 position paper | [aiatlas-lab-paper_review-f9199f49.zip](kits/aiatlas-lab-paper_review-f9199f49.zip) | 11KB | `f9199f490a55f3120915dd2bf25617bc070f18acfce52f524012bc3065446c4b` |
+| L5 | 모델 내부 열어 보기 — 유도 헤드 끊기와 Gemma Scope 2 특징 개입<br>Opening up a model's insides — cutting induction heads and intervening on Gemma Scope 2 features | [aiatlas-lab-interp_probe-57270ff0.zip](kits/aiatlas-lab-interp_probe-57270ff0.zip) | 61KB | `57270ff061969f3d04670e5127986be99340196b475bb065e65b1f8421b0784d` |
 | L5 | 소형 모델 GRPO 강화학습 + Pass@k/Maj@k 로 새 능력인지 가리기<br>GRPO reinforcement learning on a small model + using Pass@k/Maj@k to tell whether it is a new ability | [aiatlas-lab-grpo_reasoning-b9268684.zip](kits/aiatlas-lab-grpo_reasoning-b9268684.zip) | 46KB | `b926868403ee6ec0b30242c2c9b4d5e07e7f1b70f803ffd59b07e1515958c2e4` |
 
 코드는 MIT 라이선스(각 키트의 LICENSE)입니다. 모델 가중치·데이터셋은 들어 있지 않으며, 절차대로 원래 배포처에서 받습니다.
